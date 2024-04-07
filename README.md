@@ -25,4 +25,6 @@ NOTE: If there are any permission issues in running the exe, type the following 
   	Chmod +x ./demo.out 
 
 
+If you are facing any other issues , feel free to contact us !
+
 
